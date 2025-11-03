@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @dxicheng007
 - 👀 I’m interested in Computer Science and Engineering.
-- 🌱 I’m currently learning programming.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
